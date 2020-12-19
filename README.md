@@ -1,7 +1,7 @@
 # cocos-first-game
-'''
-conda activate py2
-./setup.py
-cocos new game -l cpp -p com.franz.game
-cmake .. -G "Visual Studio 16 2019" -AWin32
-'''
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+puts markdown.to_html
+```
